@@ -6,4 +6,8 @@ class Hello{
 		public void bar(){
 			System.out.println("bar bar");
 		}
+		
+		public void foo(){
+			
+		}
 }
