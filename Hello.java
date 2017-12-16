@@ -4,14 +4,18 @@ class Hello{
 			System.out.println("Hello bar bar!!!");
 			System.out.println("Ale jaja");
 		}
-		
-		public void bar(){
+
+	public Hello() {
+	}
+
+	public void bar(){
 			System.out.println("bar bar");
 		}
 
 		
 		public void foo(){
-			
+			System.out.println("Moje inne zmiany");
+			System.out.println("hello");
 		}
 		
 		public void boo(){
