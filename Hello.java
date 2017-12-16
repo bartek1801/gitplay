@@ -10,6 +10,6 @@ class Hello{
 
 		
 		public void foo(){
-			
+			System.out.println("Ale fajny GIT");
 		}
 }
