@@ -18,6 +18,9 @@ class Hello{
 		public void foo(){
 			System.out.println("Moje inne zmiany");
 			System.out.println("hello");
+			System.out.println("Ale fajny GIT");
+			System.out.println("Moje inne zmiany");
+			System.out.println("hello");
 		}
 
 		public void boo(){
