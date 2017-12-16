@@ -6,4 +6,8 @@ class Hello{
 		public void foo(){
 			
 		}
+		
+		public void boo(){
+			
+		}
 }
