@@ -24,4 +24,8 @@ class Hello{
 		public void boo(){
 			
 		}
+
+		public void method(){
+			System.out.println("important method");
+		}
 }
