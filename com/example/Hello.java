@@ -31,4 +31,8 @@ class Hello{
 			System.out.println("important method");
 			System.out.println("Ale fajny GIT");
 		}
+
+		public void method(){
+			System.out.println("important method");
+		}
 }
