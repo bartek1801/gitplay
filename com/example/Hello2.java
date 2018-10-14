@@ -8,5 +8,9 @@ class Hello2{
 		public void foo(){
 			System.out.println("foo");
 		}
+
+		public String translate(String someString){
+			return someString.concat("someSufix");
+		}
 		
 }
