@@ -1,1 +1,1 @@
-Hello GIT!!!
+com.example.gitplay.Hello GIT!!!
