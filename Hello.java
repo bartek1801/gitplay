@@ -19,6 +19,8 @@ class Hello{
 		}
 		
 		public void boo(){
+
+			System.out.println("new branch");
 			
 		}
 
