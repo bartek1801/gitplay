@@ -19,7 +19,7 @@ class Hello{
 		}
 		
 		public void boo(){
-			
+			System.out.println("test text");
 		}
 
 		public void method(){
