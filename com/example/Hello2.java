@@ -6,7 +6,7 @@ class Hello2{
 		}
 		
 		public void foo(){
-			System.out.println("foo");
+			System.out.println("fooooooooo");
 		}
 
 		public String translate(String someString){
