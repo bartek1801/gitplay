@@ -2,16 +2,16 @@ public class Author {
 
     private String firstName;
     private String lastName;
-    private String pseudonim;
+    private String pseudonym;
 
 
     public Author() {
     }
 
-    public Author(String firstName, String lastName, String pseudonim) {
+    public Author(String firstName, String lastName, String pseudonym) {
         this.firstName = firstName;
         this.lastName = lastName;
-        this.pseudonim = pseudonim;
+        this.pseudonym = pseudonym;
     }
 
     public String getFirstName() {
@@ -30,11 +30,11 @@ public class Author {
         this.lastName = lastName;
     }
 
-    public String getPseudonim() {
-        return pseudonim;
+    public String getPseudonym() {
+        return pseudonym;
     }
 
-    public void setPseudonim(String pseudonim) {
-        this.pseudonim = pseudonim;
+    public void setPseudonym(String pseudonym) {
+        this.pseudonym = pseudonym;
     }
 }
